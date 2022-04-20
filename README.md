@@ -1,2 +1,1 @@
-# HealthCareBlockchainApp
-Health care decentralised app 
+# Medical Insurance DApp
